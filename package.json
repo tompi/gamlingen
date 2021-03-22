@@ -1,0 +1,15 @@
+{
+  "name": "gamlingen",
+  "version": "1.0.0",
+  "description": "Automatisert gamlingen booking",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thomas Haukland",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^89.0.0",
+    "selenium-webdriver": "^4.0.0-beta.2"
+  }
+}
